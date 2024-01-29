@@ -50,7 +50,7 @@ Start the development server to run the application locally:
 python manage.py runserver
 ## Explore and Customize
 
-Access the application at [http://localhost:8000/](http://localhost:8000/) and explore the features. Customize views and templates according to your specific requirements.
+Access the application at (http://localhost:8000/) and explore the features. Customize views and templates according to your specific requirements.
 
 ## Documentation
 
